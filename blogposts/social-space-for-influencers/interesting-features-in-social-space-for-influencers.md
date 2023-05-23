@@ -1,4 +1,4 @@
-# Features in Social Space for Influencers
+# Interesting Features in Social Space for Influencers
 
 Some exciting features to make this social space more interactive, fun, and interesting, enhancing the overall experience for both influencers and their followers.
 

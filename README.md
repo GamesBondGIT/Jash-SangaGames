@@ -1,7 +1,7 @@
 ---
 description: >-
-  In this blog post, we delve into the diverse sectors that make up the
-  metaverse, revealing the possibilities and opportunities it presents.
+  Diverse sectors that make up the metaverse, revealing the possibilities and
+  opportunities it presents.
 ---
 
 # Key Sectors of Metaverse
